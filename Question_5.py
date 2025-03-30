@@ -1,3 +1,6 @@
+# Question 5: Reverse Ordering.
+# Write a program that takes an integer as input and returns an integer with reversed digit ordering.
+
 user_input2 = input("Enter any number: ")
 user_input2 = [numeral for numeral in user_input2]
 
