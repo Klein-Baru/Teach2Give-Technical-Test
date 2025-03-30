@@ -1,3 +1,7 @@
+# Question 4: Capitalize words.
+# Write a program that accepts a string as input, capitalizes the first letter of each word in the
+# string, and then returns the result string.
+
 user_input2 = input()
 
 characterize = [i for i in user_input2]
